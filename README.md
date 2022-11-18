@@ -1,5 +1,5 @@
 # Outil d'aide au choix d'outil coupant 
-<em> Auteur: DEFIENAS Colin & BESNARD William</em>
+<em> Auteur: DEFIENAS Colin & BESNARD William & COURNE Jules</em>
 
 ### Base de données
 Le script SQL de la base de données se trouve dans le dossier database
